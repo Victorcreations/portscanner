@@ -71,6 +71,6 @@ python portscanner.py
 2. Give the starting port you want to scan from.
 3. Give the end port for the tool to scan until it.
 
-![portscan.py](https://github.com/Victorcreations/portscanner/blob/main/images/portoutput.jpeg)
+![portscan.py](https://github.com/Victorcreations/portscanner/blob/main/images/Screenshot%20from%202023-08-21%2022-30-06.png)
 
 ![portoutput](https://github.com/Victorcreations/portscanner/blob/main/images/portoutput.jpeg)
